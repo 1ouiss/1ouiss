@@ -1,7 +1,10 @@
 ### Hi there I'm Louis 👋
 - I'm a french Web Developer
 
+
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=1ouiss&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ouiss&layout=compact&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1ouiss&layout=compact&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills 💻
 
