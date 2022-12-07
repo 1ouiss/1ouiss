@@ -1,6 +1,7 @@
 ### Hi there I'm Louis 👋
 - I'm a french Web Developer
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ouiss&layout=compact&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills 💻
 
