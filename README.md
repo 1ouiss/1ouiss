@@ -2,8 +2,8 @@
 - I'm a french Web Developer
 
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=1ouiss&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ouiss&layout=compact&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=1ouiss&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ouiss&layout=compact&langs_count=12&theme=github_dark&card_width=445)
 
 ## My skills 💻
 
@@ -35,6 +35,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Version Control
 
